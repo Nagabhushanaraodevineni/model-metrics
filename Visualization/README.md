@@ -202,7 +202,7 @@ Found a bug? Have a suggestion? Want to add features?
 - **Creator**: Nagabhushana Rao  Devineni
 - **Email**: nagabhushana.devineni@gmail.com
 - **GitHub**: github.com/Nagabhushanaraodevineni
-- **LinkedIn**: [[[linkedin.com/in/yourprofile]](https://www.linkedin.com/in/nagabhushana-rao-devineni-b5a40010/)](https://www.linkedin.com/in/nagabhushana-rao-devineni-b5a40010/)
+- **LinkedIn**: https://www.linkedin.com/in/nagabhushana-rao-devineni-b5a40010/)](https://www.linkedin.com/in/nagabhushana-rao-devineni-b5a40010/
 
 ## 🎉 Acknowledgments
 
