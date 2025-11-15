@@ -2,8 +2,8 @@
 
 An innovative interactive visualization tool for understanding confusion matrices, precision, recall, and binary classification metrics through an intuitive dual-cylinder interface.
 
-![Precision-Recall Twin Cylinders Preview](screenshot.png)
-*Replace with actual screenshot*
+<img width="867" height="883" alt="image" src="https://github.com/user-attachments/assets/679c6264-4439-455f-b1f4-a0bf3041b601" />
+
 
 ## 🎯 What Is This?
 
