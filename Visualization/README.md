@@ -199,10 +199,10 @@ Found a bug? Have a suggestion? Want to add features?
 
 ## 📞 Contact
 
-- **Creator**: [Your Name]
-- **Email**: [your.email@example.com]
-- **GitHub**: [github.com/yourusername]
-- **LinkedIn**: [linkedin.com/in/yourprofile]
+- **Creator**: Nagabhushana Rao  Devineni
+- **Email**: nagabhushana.devineni@gmail.com
+- **GitHub**: github.com/Nagabhushanaraodevineni
+- **LinkedIn**: [[[linkedin.com/in/yourprofile]](https://www.linkedin.com/in/nagabhushana-rao-devineni-b5a40010/)](https://www.linkedin.com/in/nagabhushana-rao-devineni-b5a40010/)
 
 ## 🎉 Acknowledgments
 
